@@ -1,0 +1,6 @@
+*.cache
+.idea
+.pyc
+.vagrant
+docker_images/k8s.gcr.io
+vagrant_scripts/token.sh
